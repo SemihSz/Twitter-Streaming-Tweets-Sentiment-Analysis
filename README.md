@@ -11,4 +11,5 @@ ImportantVersion:
     vaderSentiment --> 3.2.1
     Unidecode --> 1.0.23
  
- 
+In this code, some control operations to find users locations. 
+I used to world cities list from my database and added these data inside of the database. You can find these format from the Web. 
