@@ -16,7 +16,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 # consumer key, consumer secret, access token, access secret.
 consumerKey = ""
 consumerSecret = ""
-accessToken = "96850622-"
+accessToken = ""
 accessTokenSecret = ""
 
 conn = sqlite3.connect('db.twitterdata')
