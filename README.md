@@ -1,7 +1,13 @@
 # Twitter-Streaming-Tweets-Sentiment-Analysis
+You have to have a twitter developer account and adding these Key inside of empty place. 
+
+consumer key = "" consumer secret= ""
+
+access token = "" access secret = ""
 
 This code provides to getting streaming tweets from global, analyzing whole tweets while the taking operations and storing tweets inside of my local computer. The approximate size of this database is 1 Gb.
 ImportantVersion:
+
     
     Python --> 3.6
     Tweepy --> 3.7.0
