@@ -1,7 +1,7 @@
 # Twitter-Streaming-Tweets-Sentiment-Analysis
 You have to have a twitter developer account and adding these Key inside of empty place. 
 
-consumer key = "" consumer secret= ""
+consumer key = "" consumer secret = ""
 
 access token = "" access secret = ""
 
